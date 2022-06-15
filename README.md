@@ -1,6 +1,6 @@
 # Instagram-dio
 
-### Projeto de recriação da página inicial do Instagram, como proposa de projeto do Bootcamp Santander
+### Projeto de recriação da página inicial do Instagram, como proposta de projeto do Bootcamp Santander
 
 ##
 
