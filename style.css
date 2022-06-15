@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    
+}
+
+body{
+
+    min-height: 100vh;
+    width: 100%;
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 80%;
+    
+      
+}
+
+.display-cel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+
+}
+
+.display-cel img{
+    height: 50rem;
+}
+
+.navegacao{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    min-height: 36rem;
+    margin-top: 10rem;
+    
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid lightgray;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 2rem 0;
+    justify-content: space-between;
+    
+}
+
+.box:nth-child(1){
+    min-height: 25rem;
+}
+
+.foto-perfil{
+    border-radius: 50%;
+    width: 10rem;
+}
+
+.logo{
+    width: 10rem;
+}
+
+.continue-como{
+    background-color: #0095F6;
+    color: #fff;
+    padding: 0.8rem;
+    border-radius: 6px;
+
+
+}
+
+.link-conta{
+
+    color: #0095F6;
+
+}
+
+.download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 15rem;
+    color: black;
+}
+
+.apps{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.link-download{
+    width: 10rem;
+    margin-top: 1.8rem;
+    
+}
+
+.link-download:nth-child(1){
+    margin-right: 1rem;
+}
+
